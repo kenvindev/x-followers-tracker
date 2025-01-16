@@ -1,4 +1,4 @@
-# Twitter Follower Tracker
+# X Follower Tracker
 
 An automated tool for tracking and managing Twitter/X followers with a web interface.
 
